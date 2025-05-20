@@ -2,7 +2,7 @@
 A web-based task management application that allows users to create, update, and organize tasks efficiently.
 
 🌐 Live Demo
-Check out the live application here: task-riya.netlify.app
+Check out the live application here: https://task-riya.netlify.app
 
 🛠️ Tech Stack
 
